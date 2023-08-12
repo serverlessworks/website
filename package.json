@@ -11,6 +11,6 @@
   },
   "scripts": {
     "dev": "eleventy --serve",
-    "build": "npm run build"
+    "build": "eleventy"
   }
 }
