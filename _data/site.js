@@ -1,20 +1,20 @@
 module.exports = {
   meta: {
-    title: "My Purple Blog",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    title: "ServerlessWorks",
+    description: "All about serverless technology.",
     lang: "en",
-    siteUrl: "https://example.com/",
+    siteUrl: "https://serverless.works",
   },
   feed: { // used in feed.xml.njk
     subtitle: "Lorem ipsum dolor sit amet consecuteor",
     filename: "atom.xml",
     path: "/atom.xml",
-    id: "https://example.com/",
+    id: "https://serverless.works/",
     authorName: "John Doe",
-    authorEmail: "johndoe@example.com"
+    authorEmail: "hello@serverless.works"
   },
   hero: { // used in hero section of main page ie. index.html.njk
-    title: "Welcome to my purple blog",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores accusantium deserunt odio esse."
+    title: "ServerlessWorks",
+    description: "We are AWS Serverless Specialists"
   }
 }
