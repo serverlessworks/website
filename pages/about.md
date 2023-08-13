@@ -1,5 +1,5 @@
 ---
-title: Welcome to ServerlessWorks
+title: About Us ServerlessWorks
 description: About ServerlessWorks Consultancy
 layout: layouts/post.njk
 hideTagsList: true
