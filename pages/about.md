@@ -1,6 +1,6 @@
 ---
-title: About Us ServerlessWorks
-description: About ServerlessWorks Consultancy
+title: About us
+description: About us ServerlessWorks Consultancy
 layout: layouts/post.njk
 hideTagsList: true
 eleventyNavigation:
