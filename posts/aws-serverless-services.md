@@ -16,6 +16,8 @@ tags:
 
 - **AWS SNS**: Messaging service for sending notifications and alerts to various endpoints in serverless systems.
 
+- **AWS EventBridge**: Build event-driven architectures with an event bus for serverless communication.
+
 - **AWS DynamoDB**: Managed NoSQL database with automatic scaling and low-latency performance for serverless applications.
 
 - **AWS AppSync**: It allows you to create flexible and secure APIs that connect to various data sources, including DynamoDB, Lambda, and more.
@@ -39,10 +41,6 @@ tags:
 - **AWS SES**: Scalable email sending and receiving for serverless applications.
 
 - **AWS Glue**: Serverless ETL service for data integration and transformation.
-
-- **AWS EventBridge**: Build event-driven architectures with an event bus for serverless communication.
-
-- **AWS Step Functions Data Science SDK**: Orchestrate serverless data science workflows using the SDK.
 
 - **AWS App Runner**: Deploy, manage, and scale containerized web apps without infrastructure management.
 
