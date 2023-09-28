@@ -6,6 +6,9 @@ description: What is AWS Route53 and it capabilities
 tags:
   - network
 ---
+
+## Introduction
+
 AWS Route 53 is a scalable and highly available domain name system web service that translates human-readable domain names into IP addresses, directing traffic to appropriate resources, such as web servers, load balancers, and Amazon S3 buckets.
 
 ## Key Features of AWS Route 53:

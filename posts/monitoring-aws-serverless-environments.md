@@ -6,6 +6,9 @@ description: Monitoring AWS Serverless Environments
 tags:
   - monitoring
 ---
+
+## Introduction
+
 In the era of serverless computing, monitoring plays a critical role in maintaining the health, performance, and security of your applications. AWS Serverless environments, powered by services like AWS Lambda, offer unique challenges and opportunities for monitoring. In this article, we'll explore the best practices and tools to effectively monitor your AWS Serverless applications and ensure optimal performance.
 
 ## The Importance of Monitoring AWS Serverless Environments

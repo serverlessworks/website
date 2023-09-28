@@ -3,7 +3,7 @@ title: Pros and Cons of AWS Fargate
 date: 2023-08-11
 description: Pros and Cons of AWS Fargate
 tags:
-  - lambda
+  - container
 ---
 
 ## Introduction

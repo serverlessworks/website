@@ -4,8 +4,10 @@ title: AWS APIGateway REST vs HTTP
 date: 2023-08-04
 description: Comparing AWS APIGateway REST vs HTTP
 tags:
-  - apigateway
+  - api
 ---
+
+## Introduction
 
 AWS APIGateway offers two types of APIs: REST APIs and HTTP APIs. Each type has its own characteristics and use cases. Let's compare AWS Gateway REST API and HTTP API:
 
@@ -32,5 +34,7 @@ AWS APIGateway offers two types of APIs: REST APIs and HTTP APIs. Each type has 
 4. **CORS**: CORS configuration is simplified and can be configured at the API level, allowing for easy handling of cross-origin requests.
 
 5. **Throttling**: HTTP APIs provide automatic and default throttling settings based on the number of requests.
+
+## Conclusion
 
 In summary, if you require advanced features, more customization, and have complex use cases, REST APIs are the way to go. On the other hand, if you need a simple and fast way to expose HTTP endpoints, especially for SPAs and mobile applications, HTTP APIs offer a more streamlined approach. Your choice will depend on your application's requirements, complexity, and the level of control you need over your API configuration.

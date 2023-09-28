@@ -6,6 +6,9 @@ description: Multi-Regional Deployments
 tags:
   - architecture
 ---
+
+## Introduction
+
 Multi-regional deployments involve distributing your application across multiple geographic regions, allowing users to access resources from the nearest data center. This strategy enhances performance, minimizes latency, and bolsters resilience by providing redundancy in case of regional outages.
 
 ## Benefits of Serverless Multi-Regional Deployments:

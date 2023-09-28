@@ -6,6 +6,9 @@ description: What is AWS Lambda and it capabilities
 tags:
   - monitoring
 ---
+
+## Introduction
+
 AWS Lambda is a serverless compute service that lets you run code without provisioning or managing servers. It allows you to focus solely on your application logic and business logic, while AWS takes care of the underlying infrastructure, scaling, and operational aspects.
 
 ## Key Features of AWS Lambda:

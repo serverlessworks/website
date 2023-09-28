@@ -6,6 +6,9 @@ description: What is CloudWatch and it capabilities
 tags:
   - monitoring
 ---
+
+## Introduction
+
 Amazon CloudWatch offers a unified platform to monitor, collect, and visualize metrics, logs, and events from AWS resources. It enables you to gain a holistic view of your cloud environment, identify trends, and proactively respond to issues.
 
 ## Key Features of AWS CloudWatch:

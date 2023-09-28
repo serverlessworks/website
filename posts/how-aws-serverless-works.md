@@ -6,6 +6,9 @@ description: Demystifying AWS Serverless - How It Works and Why It's Transformin
 tags:
   - serverless
 ---
+
+## Introduction
+
 The rise of cloud computing has ushered in a new paradigm that's redefining the way applications are developed, deployed, and managed. AWS Serverless is at the forefront of this evolution, enabling developers to focus solely on their code while leaving the complexities of infrastructure management behind. In this article, we'll dive into how AWS Serverless works, the key components, and the reasons behind its transformative impact.
 
 ## Understanding AWS Serverless

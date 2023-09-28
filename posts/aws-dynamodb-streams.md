@@ -4,8 +4,12 @@ title: AWS DynamoDB Streams
 date: 2023-08-07
 description: Unveiling AWS DynamoDB Streams - Real-Time Insights and Data Processing
 tags:
-  - dynamodb
+  - database
+  - queue
 ---
+
+## Introduction
+
 DynamoDB Streams is a time-ordered sequence of item-level modifications in a DynamoDB table. It captures a variety of events, including inserts, updates, and deletes, and stores them in a durable, low-latency stream. This stream of events can be consumed by various applications, allowing you to react to changes in real-time.
 
 ## Benefits of DynamoDB Streams:

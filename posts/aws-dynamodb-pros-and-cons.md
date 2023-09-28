@@ -4,8 +4,11 @@ title: Exploring the Pros and Cons of AWS DynamoDB
 date: 2023-08-05
 description: Exploring the Pros and Cons of AWS DynamoDB
 tags:
-  - dynamodb
+  - database
 ---
+
+## Introduction
+
 Amazon Web Services (AWS) DynamoDB, a fully managed NoSQL database service, has gained popularity as a versatile solution for modern application development. Its ability to scale seamlessly, low-latency performance, and serverless architecture have positioned it as a valuable option. In this article, we'll delve into the pros and cons of AWS DynamoDB to help you make informed decisions when considering it for your projects.
 
 ## Pros of AWS DynamoDB:

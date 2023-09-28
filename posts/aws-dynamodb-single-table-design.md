@@ -4,8 +4,11 @@ title: AWS DynamoDB Single Table Design
 date: 2023-08-06
 description: Mastering Efficiency with AWS DynamoDB Single Table Design
 tags:
-  - dynamodb
+  - database
 ---
+
+## Introduction
+
 Amazon DynamoDB, a managed NoSQL database service, offers developers unparalleled scalability and flexibility. One design approach that has gained traction for optimizing data modeling and performance is the "Single Table Design." In this article, we'll explore the concepts and benefits of DynamoDB's Single Table Design and how it can empower your application architecture.
 
 ## Understanding Single Table Design
