@@ -76,4 +76,5 @@ AWS Fargate is a serverless compute engine for containers that allows you to run
    - Integrate Fargate into your CI/CD pipelines for automated container deployments.
 
 ## Conclusion
+
 AWS Fargate simplifies container orchestration by providing a serverless environment for running Docker containers. It offers a range of benefits, including simplified operations, cost efficiency, and scalability. Fargate is a versatile solution suitable for various use cases, from microservices to batch processing and machine learning workflows. As organizations seek agility and efficiency in deploying containerized applications, AWS Fargate stands as a compelling choice in the cloud computing landscape.
