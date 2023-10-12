@@ -6,7 +6,8 @@ description: An Introduction to AWS Step Functions
 tags:
   - orchestration
 ---
-Title: AWS Step Functions: Simplifying Serverless Workflow Orchestration
+
+## Introduction
 
 In the realm of cloud computing, orchestrating complex workflows efficiently is a critical aspect of application development. AWS Step Functions is a fully managed service that simplifies the creation, execution, and visualization of serverless workflows. In this article, we'll provide an introduction to AWS Step Functions, explore its core features, and understand how it streamlines the orchestration of serverless workflows.
 
